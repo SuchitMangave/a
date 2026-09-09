@@ -1,0 +1,6 @@
+{
+  "name": "Usely",
+  "description": "Calculate cost-per-use in Indian Rupees (₹), evaluate purchase verdicts, and view spending trends over time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
